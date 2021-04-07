@@ -1,6 +1,6 @@
 # ReactIssueSearch
 
-[Live Demo:](https://nostalgic-almeida-0c325d.netlify.app/)
+[Live Demo](https://nostalgic-almeida-0c325d.netlify.app/)
 
 In the project directory, you can run:
 
